@@ -4,7 +4,7 @@
 
 ## Introducción ##
 
-En este ejercicio de prueba, realizaremos el marcado de una carta con las etiquetas de HTML que hemos aprendido.
+En este primer ejercicio de prueba, realizaremos el marcado de una carta con las etiquetas de HTML que hemos aprendido.
 
 El resultado sería el siguiente:
 
